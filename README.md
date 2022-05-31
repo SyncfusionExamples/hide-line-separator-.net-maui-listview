@@ -1,2 +1,1 @@
-# hide-line-separator-.net-maui-listview
-How to hide the line separator with grouping in .NET MAUI ListView (SfListView) ?
+**[View document in Syncfusion .NET MAUI Knowledge Base](https://www.syncfusion.com/kb/13443/how-to-hide-the-line-separator-with-grouping-in-net-maui-listview-sflistview)**
